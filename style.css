@@ -1,7 +1,8 @@
+
 .navbar .container-fluid .navbar-brand {
     font-size: 45px;
-    font-family: 'Courier New', Courier, monospace;
-    
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        
 }
 #navbarNavAltMarkup .navbar-nav a {
     margin-right: 30px ;
@@ -14,10 +15,17 @@
 .navbar .container-fluid {
     margin-right: 5%;
     width: 100%;
-
+    
 }
 /* Make the image fully responsive */ 
   .carousel-inner img {
     width: 100%;
     
   }
+
+#text-slider{
+    margin: 25px;
+    border-radius: 25px;
+    background-color: rgb(187, 181, 181);
+    color: black;
+}
