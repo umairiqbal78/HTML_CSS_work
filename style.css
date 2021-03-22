@@ -1,9 +1,7 @@
-.nav {
-    background-color: grey !important;
-}
+
 .navbar .container-fluid .navbar-brand {
     font-size: 45px;
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: Helvetica;
         
 }
 #navbarNavAltMarkup .navbar-nav a {
