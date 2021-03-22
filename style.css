@@ -1,0 +1,23 @@
+.navbar .container-fluid .navbar-brand {
+    font-size: 45px;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+#navbarNavAltMarkup .navbar-nav a {
+    margin-right: 30px ;
+}
+#navbarNavAltMarkup .navbar-nav a:hover {
+    background-color: rgb(189, 186, 186);
+    border-radius: 25px 10px 15px 0px ; 
+    
+}
+.navbar .container-fluid {
+    margin-right: 5%;
+    width: 100%;
+
+}
+/* Make the image fully responsive */ 
+  .carousel-inner img {
+    width: 100%;
+    
+  }
