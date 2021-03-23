@@ -29,3 +29,37 @@
     background-color: rgb(187, 181, 181);
     color: black;
 }
+
+.container-4{
+    display: flex;
+    
+}
+.container-4 .left-div {
+    justify-content: space-around;
+    flex-basis: 60%;
+}
+
+.container-4 .left-div .box4{
+    flex-basis: 40%;
+    border: 2px #ccc solid;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 40px;
+    border-radius: 10px 35px 5px 10px;
+    }
+.container-4 div, .box4{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px;
+    justify-content: space-evenly;
+    align-items:center;
+    font-size: x-large;
+    
+}
+.container-4 .right-div{
+    flex-basis: 40%;
+}
+.container-4 .right-box {
+    border: 1px #ccc;
+    
+}
+
